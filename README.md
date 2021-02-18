@@ -16,6 +16,7 @@ Iteration: 4; Percent complete: 0.1%; Average loss: 8.5416
 Iteration: 5; Percent complete: 0.1%; Average loss: 8.5354
 
 --------------------------------------------------------------
+
 Iteration: 2904; Percent complete: 72.6%; Average loss: 2.1554
 Iteration: 2905; Percent complete: 72.6%; Average loss: 2.0213
 Iteration: 2906; Percent complete: 72.6%; Average loss: 2.2699
