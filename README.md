@@ -9,6 +9,8 @@ Session 13 Assignment for training Cornell Dialog Dataset using Transformer. We 
 
 Some of training logs are as below:
 
+-------------------------------------------------------------
+
 Iteration: 1; Percent complete: 0.0%; Average loss: 8.5598
 Iteration: 2; Percent complete: 0.0%; Average loss: 8.5534
 Iteration: 3; Percent complete: 0.1%; Average loss: 8.5476
