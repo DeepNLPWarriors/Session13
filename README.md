@@ -34,6 +34,9 @@ Iteration: 2913; Percent complete: 72.8%; Average loss: 2.0870
 
 Iteration: 4036; Percent complete: 100.9%; Average loss: 2.1200
 Iteration: 4037; Percent complete: 100.9%; Average loss: 2.1006
+
+-----------------------------------------------------------------
+
 Iteration: 4038; Percent complete: 100.9%; Average loss: 1.8822
 Iteration: 4039; Percent complete: 101.0%; Average loss: 2.1544
 Iteration: 4040; Percent complete: 101.0%; Average loss: 2.1531
@@ -49,6 +52,12 @@ Iteration: 4048; Percent complete: 101.2%; Average loss: 1.7522
 --------------------------------------------------------------
 
 Best Loss Value:  1.6520626544952393  At Iteration:  2908
+
+Validation Loss: 2.066 
+
+Test Loss: 2.090 
+
+
 
 
 
