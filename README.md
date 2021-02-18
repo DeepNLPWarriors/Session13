@@ -30,35 +30,6 @@ Iteration: 2913; Percent complete: 72.8%; Average loss: 2.0870
 
 ----------------------------------------------------------------
 
-Iteration: 4007; Percent complete: 100.2%; Average loss: 1.9783
-Iteration: 4008; Percent complete: 100.2%; Average loss: 2.0620
-Iteration: 4009; Percent complete: 100.2%; Average loss: 2.0969
-Iteration: 4010; Percent complete: 100.2%; Average loss: 1.8833
-Iteration: 4011; Percent complete: 100.2%; Average loss: 2.0601
-Iteration: 4012; Percent complete: 100.3%; Average loss: 2.0482
-Iteration: 4013; Percent complete: 100.3%; Average loss: 2.2256
-Iteration: 4014; Percent complete: 100.3%; Average loss: 2.0074
-Iteration: 4015; Percent complete: 100.4%; Average loss: 1.9162
-Iteration: 4016; Percent complete: 100.4%; Average loss: 2.0909
-Iteration: 4017; Percent complete: 100.4%; Average loss: 1.9556
-Iteration: 4018; Percent complete: 100.4%; Average loss: 2.0049
-Iteration: 4019; Percent complete: 100.4%; Average loss: 2.1056
-Iteration: 4020; Percent complete: 100.5%; Average loss: 1.8694
-Iteration: 4021; Percent complete: 100.5%; Average loss: 1.9510
-Iteration: 4022; Percent complete: 100.5%; Average loss: 1.8954
-Iteration: 4023; Percent complete: 100.6%; Average loss: 2.0207
-Iteration: 4024; Percent complete: 100.6%; Average loss: 1.9613
-Iteration: 4025; Percent complete: 100.6%; Average loss: 2.0771
-Iteration: 4026; Percent complete: 100.6%; Average loss: 2.0289
-Iteration: 4027; Percent complete: 100.6%; Average loss: 2.1025
-Iteration: 4028; Percent complete: 100.7%; Average loss: 2.0141
-Iteration: 4029; Percent complete: 100.7%; Average loss: 2.1454
-Iteration: 4030; Percent complete: 100.7%; Average loss: 1.7638
-Iteration: 4031; Percent complete: 100.8%; Average loss: 1.9906
-Iteration: 4032; Percent complete: 100.8%; Average loss: 1.9701
-Iteration: 4033; Percent complete: 100.8%; Average loss: 1.9843
-Iteration: 4034; Percent complete: 100.8%; Average loss: 1.8660
-Iteration: 4035; Percent complete: 100.8%; Average loss: 2.1119
 Iteration: 4036; Percent complete: 100.9%; Average loss: 2.1200
 Iteration: 4037; Percent complete: 100.9%; Average loss: 2.1006
 Iteration: 4038; Percent complete: 100.9%; Average loss: 1.8822
